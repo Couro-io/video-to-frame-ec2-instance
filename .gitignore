@@ -2,3 +2,4 @@
 *.mov
 *.jpg
 *.png
+venv/*

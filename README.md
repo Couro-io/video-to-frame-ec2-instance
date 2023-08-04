@@ -1,3 +1,3 @@
-# Video to Frame EC2 Instance
+# Video to Frame Microservice
+This repo contains code that allows you to run FFMPEG as a microservice using AWS.
 
-This repo contains the bash script to install ffmpeg for video processing.
